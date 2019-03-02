@@ -1,0 +1,10 @@
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\bin\Debug\DbProj.dacpac
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\bin\Debug\DbProj.dll
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\bin\Debug\DbProj.pdb
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\obj\Debug\DbProj.sqlprojAssemblyReference.cache
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\obj\Debug\Model.xml
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\obj\Debug\refactor.xml
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\obj\Debug\postdeploy.sql
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\obj\Debug\predeploy.sql
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\obj\Debug\DbProj.dll
+D:\Google Drive\LuizaLabsTest\LuizaLabTest\DbProj\obj\Debug\DbProj.pdb

@@ -1,0 +1,14 @@
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Users.deps.json
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Users.runtimeconfig.json
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Users.runtimeconfig.dev.json
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Users.dll
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Users.pdb
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.DTO.dll
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.DTO.pdb
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Users.csprojAssemblyReference.cache
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Users.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Users.AssemblyInfoInputs.cache
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Users.AssemblyInfo.cs
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Users.csproj.CopyComplete
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Users.dll
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Users\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Users.pdb

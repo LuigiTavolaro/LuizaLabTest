@@ -1,0 +1,14 @@
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Wishes.deps.json
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Wishes.runtimeconfig.json
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Wishes.runtimeconfig.dev.json
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Wishes.dll
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.Wishes.pdb
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.DTO.dll
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\bin\Debug\netcoreapp2.0\LuizaLabTest.DTO.pdb
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Wishes.csprojAssemblyReference.cache
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Wishes.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Wishes.AssemblyInfoInputs.cache
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Wishes.AssemblyInfo.cs
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Wishes.csproj.CopyComplete
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Wishes.dll
+C:\Users\Luigi\Google Drive\LuizaLabsTest\microservicos\Wishes\LuizaLabTest\obj\Debug\netcoreapp2.0\LuizaLabTest.Wishes.pdb
