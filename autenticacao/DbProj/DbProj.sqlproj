@@ -62,5 +62,9 @@
     <Build Include="Users.sql" />
     <Build Include="Products.sql" />
     <Build Include="Wishes.sql" />
+    <Build Include="UsersToken.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="InsertUsersToken.sql" />
   </ItemGroup>
 </Project>
